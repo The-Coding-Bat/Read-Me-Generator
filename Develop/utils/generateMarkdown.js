@@ -6,12 +6,12 @@ const generateMarkdown = data => {
     ## Description 
     ${data.description}
     ## Table of Contents
-    * [Usage](#usage)
-    * [Installation](#installation)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+    * [Usage](#Usage)
+    * [Installation](#Installation)
+    * [License](#License)
+    * [Tests](#Tests)
+    * [Contributing](#Contributing)
+    * [Questions](#Questions)
     
     ## Usage 
     ${data.usage}

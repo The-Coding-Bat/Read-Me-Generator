@@ -4,12 +4,12 @@
     ## Description 
     A dynamically generated Read Me file for use in any project!
     ## Table of Contents
-    * [Usage](#usage)
-    * [Installation](#installation)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+    * [Usage](#Usage)
+    * [Installation](#Installation)
+    * [License](#License)
+    * [Tests](#Tests)
+    * [Contributing](#Contributing)
+    * [Questions](#Questions)
     
     ## Usage 
     Use the command prompts by typing in node index.js. Answer the questions to have your Read Me create with little to no fuss!
