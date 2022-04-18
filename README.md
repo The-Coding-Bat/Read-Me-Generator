@@ -25,4 +25,4 @@ If you have any questions about this projects, please contact me at tedmjablonow
 
 link to video tutorial here!
 
-https://drive.google.com/file/d/1yi0LWCb8PWydNSlifRDz9nIG1JA39bvy/view
+https://drive.google.com/file/d/1yi0LWCb8PWydNSlifRDz9nIG1JA39bvy/view?usp=sharing
